@@ -1,0 +1,4 @@
+There are 2 Outputs which has been observed -
+1. Like SpotLight  - If we provide vec4 u_light_position in vertex shaders then it takes all 4 values of Light_position.
+2.Like light from mid i.e Z axis light - If we provide vec3  u_light_position  in vertex shaders then it takes 3 values of Light_position.
+

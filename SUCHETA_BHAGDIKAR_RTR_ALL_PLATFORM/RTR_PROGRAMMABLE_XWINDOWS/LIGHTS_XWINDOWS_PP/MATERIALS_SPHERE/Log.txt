@@ -1,0 +1,17 @@
+Log File is successfully Opened
+In Create window.
+After all vertices and normals..
+Entering in  resize Function
+Entering in  resize Function
+Entering in  resize Function
+Entering in  resize Function
+Entering in  ToggleFullScreen Function
+Exiting from  ToggleFullScreen Function
+Entering in  resize Function
+Entering in  resize Function
+Entering in  ToggleFullScreen Function
+Exiting from  ToggleFullScreen Function
+Entering in  resize Function
+Entering in  resize Function
+Entering in  uinitialize Function
+Exiting from  uinitialize Function

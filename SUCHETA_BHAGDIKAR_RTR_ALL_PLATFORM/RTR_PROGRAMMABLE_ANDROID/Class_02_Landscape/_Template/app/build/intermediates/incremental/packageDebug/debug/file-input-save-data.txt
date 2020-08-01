@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Jan 02 12:47:07 PST 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\s\\Class_02_Landscape\\_Template\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

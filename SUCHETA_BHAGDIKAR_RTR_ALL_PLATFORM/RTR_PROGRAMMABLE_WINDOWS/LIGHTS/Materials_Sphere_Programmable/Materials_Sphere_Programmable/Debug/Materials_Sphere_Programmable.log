@@ -1,0 +1,36 @@
+﻿Build started 7/25/2018 12:58:33 PM.
+     1>Project "C:\Users\Acer\Desktop\FINAL_LIGHTS\Materials_Sphere_Programmable\Materials_Sphere_Programmable\Materials_Sphere_Programmable.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"C:\glew-2.1.0\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Materials_Spheres_Programmable_Lights.cpp
+         Materials_Spheres_Programmable_Lights.cpp
+     1>c:\users\acer\desktop\final_lights\materials_sphere_programmable\materials_sphere_programmable\materials_spheres_programmable_lights.cpp(15): warning C4005: 'M_PI': macro redefinition
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\math.h(1001): note: see previous definition of 'M_PI'
+     1>c:\users\acer\desktop\final_lights\materials_sphere_programmable\materials_sphere_programmable\materials_spheres_programmable_lights.cpp(805): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+     1>c:\users\acer\desktop\final_lights\materials_sphere_programmable\materials_sphere_programmable\materials_spheres_programmable_lights.cpp(813): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+     1>c:\users\acer\desktop\final_lights\materials_sphere_programmable\materials_sphere_programmable\materials_spheres_programmable_lights.cpp(831): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+     1>c:\users\acer\desktop\final_lights\materials_sphere_programmable\materials_sphere_programmable\materials_spheres_programmable_lights.cpp(842): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+     1>c:\users\acer\desktop\final_lights\materials_sphere_programmable\materials_sphere_programmable\materials_spheres_programmable_lights.cpp(847): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+     1>c:\users\acer\desktop\final_lights\materials_sphere_programmable\materials_sphere_programmable\materials_spheres_programmable_lights.cpp(851): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+     1>c:\users\acer\desktop\final_lights\materials_sphere_programmable\materials_sphere_programmable\materials_spheres_programmable_lights.cpp(855): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+     1>c:\users\acer\desktop\final_lights\materials_sphere_programmable\materials_sphere_programmable\materials_spheres_programmable_lights.cpp(859): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+     1>c:\users\acer\desktop\final_lights\materials_sphere_programmable\materials_sphere_programmable\materials_spheres_programmable_lights.cpp(863): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+     1>c:\users\acer\desktop\final_lights\materials_sphere_programmable\materials_sphere_programmable\materials_spheres_programmable_lights.cpp(867): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+     1>c:\users\acer\desktop\final_lights\materials_sphere_programmable\materials_sphere_programmable\materials_spheres_programmable_lights.cpp(871): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+     1>c:\users\acer\desktop\final_lights\materials_sphere_programmable\materials_sphere_programmable\materials_spheres_programmable_lights.cpp(875): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+     1>c:\users\acer\desktop\final_lights\materials_sphere_programmable\materials_sphere_programmable\materials_spheres_programmable_lights.cpp(879): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+     1>c:\users\acer\desktop\final_lights\materials_sphere_programmable\materials_sphere_programmable\materials_spheres_programmable_lights.cpp(883): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+     1>c:\users\acer\desktop\final_lights\materials_sphere_programmable\materials_sphere_programmable\materials_spheres_programmable_lights.cpp(887): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+     1>c:\users\acer\desktop\final_lights\materials_sphere_programmable\materials_sphere_programmable\materials_spheres_programmable_lights.cpp(891): warning C4244: 'argument': conversion from 'double' to 'GLint', possible loss of data
+     1>c:\users\acer\desktop\final_lights\materials_sphere_programmable\materials_sphere_programmable\materials_spheres_programmable_lights.cpp(958): warning C4305: 'argument': truncation from 'double' to 'float'
+     1>c:\users\acer\desktop\final_lights\materials_sphere_programmable\materials_sphere_programmable\materials_spheres_programmable_lights.cpp(1642): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\acer\desktop\final_lights\materials_sphere_programmable\materials_sphere_programmable\materials_spheres_programmable_lights.cpp(1647): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\acer\desktop\final_lights\materials_sphere_programmable\materials_sphere_programmable\materials_spheres_programmable_lights.cpp(1652): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Acer\Desktop\FINAL_LIGHTS\Materials_Sphere_Programmable\Materials_Sphere_Programmable\Debug\Materials_Sphere_Programmable.exe" /INCREMENTAL /NOLOGO /LIBPATH:E:\RealTimeRendering\PROGRAMMABLE_PIPELINE\LIGHTS_WINDOWS_PP\Materials_Sphere_Programmable\Materials_Sphere_Programmable /LIBPATH:"C:\glew-2.1.0\lib\Release\Win32" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Acer\Desktop\FINAL_LIGHTS\Materials_Sphere_Programmable\Materials_Sphere_Programmable\Debug\Materials_Sphere_Programmable.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Acer\Desktop\FINAL_LIGHTS\Materials_Sphere_Programmable\Materials_Sphere_Programmable\Debug\Materials_Sphere_Programmable.lib" /MACHINE:X86 Debug\Materials_Spheres_Programmable_Lights.obj
+         Sphere.lib
+         Materials_Sphere_Programmable.vcxproj -> C:\Users\Acer\Desktop\FINAL_LIGHTS\Materials_Sphere_Programmable\Materials_Sphere_Programmable\Debug\Materials_Sphere_Programmable.exe
+     1>Done Building Project "C:\Users\Acer\Desktop\FINAL_LIGHTS\Materials_Sphere_Programmable\Materials_Sphere_Programmable\Materials_Sphere_Programmable.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.83

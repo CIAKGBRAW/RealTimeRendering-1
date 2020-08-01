@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.astromedicomp.Hello_One" > <!-- VDG : target API Level 'android-25' -->
+    <uses-sdk
+        android:minSdkVersion="18"
+        android:targetSdkVersion="25" />
+
+    <application
+        android:icon="@mipmap/smiley"
+        android:label="@string/my_android_app"
+        android:roundIcon="@mipmap/smileyround" >
+        <activity android:name="com.astromedicomp.Hello_One.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
