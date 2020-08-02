@@ -1,8 +1,0 @@
------When using glTexImage2d() 7th parameter i.e which specifies format of texel data, when applied texture,
-texture color changes eg- if we give GL_BGR our pyramid stone texture color changes to blue.
-If we apply GL_RGB then original texture color is displayed.
-
-
------ Output initially displayed to full blackout (i.e Andhaar) because 
-rotationMatrix = rotate(gAngleCube,gAngleCube,gAngleCube); was not written and directly only multiplying with
-modelview matrix i.e modelViewMatrix = modelViewMatrix *  rotationMatrix; given no output.

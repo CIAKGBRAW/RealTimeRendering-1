@@ -1,4 +1,0 @@
-#Tue Jan 02 12:47:07 PST 2018
-base.0=C\:\\Users\\s\\Class_02_Landscape\\_Template\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
-path.0=classes.dex
-renamed.0=classes.dex

@@ -1,4 +1,0 @@
-Program Is Started Successfully
-OpenGL Version: 4.1 INTEL-10.32.48
-OpenGL Version: 4.10
-Program is terminated successfully
