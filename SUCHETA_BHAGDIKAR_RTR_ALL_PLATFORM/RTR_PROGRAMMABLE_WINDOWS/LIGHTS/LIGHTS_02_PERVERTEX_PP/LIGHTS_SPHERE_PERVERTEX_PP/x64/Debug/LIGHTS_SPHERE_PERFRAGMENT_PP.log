@@ -1,0 +1,11 @@
+﻿Build started 7/27/2018 4:19:04 PM.
+     1>Project "C:\Users\Acer\Desktop\TO_BE_SENT\RTR_PROGRAMMABLE_WINDOWS\LIGHTS\LIGHTS_02_PERVERTEX_PP\LIGHTS_SPHERE_PERVERTEX_PP\LIGHTS_SPHERE_PERFRAGMENT_PP.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt Lights_Sphere_PerVertex_PP.cpp
+         Lights_Sphere_PerVertex_PP.cpp
+     1>c:\users\acer\desktop\to_be_sent\rtr_programmable_windows\lights\lights_02_pervertex_pp\lights_sphere_pervertex_pp\lights_sphere_pervertex_pp.cpp(3): fatal error C1083: Cannot open include file: 'gl/glew.h': No such file or directory
+     1>Done Building Project "C:\Users\Acer\Desktop\TO_BE_SENT\RTR_PROGRAMMABLE_WINDOWS\LIGHTS\LIGHTS_02_PERVERTEX_PP\LIGHTS_SPHERE_PERVERTEX_PP\LIGHTS_SPHERE_PERFRAGMENT_PP.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.07

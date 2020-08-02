@@ -1,0 +1,3 @@
+-Forget to glBindAttribLocation for vNormal in initialize - effect gave me black out on doubleTap.
+-GLES32.glUniformMatrix4fv(modelViewMatrixUniform,1,false,modelViewMatrix,0);
+in display instead of last param.modelViewMatrix i gave modelMatrix.

@@ -1,0 +1,18 @@
+Log File is successfully Opened
+In Create window.
+In LoadGLTextures..
+Stone.bmp
+256
+Stone.bmp
+Exiting LoadGLTextures..
+In LoadGLTextures..
+Vijay_Kundali.bmp
+256
+Vijay_Kundali.bmp
+Exiting LoadGLTextures..
+Entering in  resize Function
+Entering in  resize Function
+Entering in  resize Function
+Entering in  resize Function
+Entering in  uinitialize Function
+Exiting from  uinitialize Function

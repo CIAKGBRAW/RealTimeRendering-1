@@ -1,0 +1,27 @@
+﻿Build started 7/25/2018 1:11:45 PM.
+     1>Project "C:\Users\Acer\Desktop\LIGHTS\LIGHTS_WINDOWS_PP1\New folder\3Lights_PerFragment\3Lights_PerFragment\3Lights_PerFragment.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"C:\glew-2.1.0\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt 3Lights_PerFragment.cpp
+         3Lights_PerFragment.cpp
+     1>c:\users\acer\desktop\lights\lights_windows_pp1\new folder\3lights_perfragment\3lights_perfragment\vmath.h(996): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+     1>c:\users\acer\desktop\lights\lights_windows_pp1\new folder\3lights_perfragment\3lights_perfragment\3lights_perfragment.cpp(15): warning C4005: 'M_PI': macro redefinition
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\math.h(1001): note: see previous definition of 'M_PI'
+     1>c:\users\acer\desktop\lights\lights_windows_pp1\new folder\3lights_perfragment\3lights_perfragment\3lights_perfragment.cpp(823): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\acer\desktop\lights\lights_windows_pp1\new folder\3lights_perfragment\3lights_perfragment\3lights_perfragment.cpp(824): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\acer\desktop\lights\lights_windows_pp1\new folder\3lights_perfragment\3lights_perfragment\3lights_perfragment.cpp(826): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\acer\desktop\lights\lights_windows_pp1\new folder\3lights_perfragment\3lights_perfragment\3lights_perfragment.cpp(827): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\acer\desktop\lights\lights_windows_pp1\new folder\3lights_perfragment\3lights_perfragment\3lights_perfragment.cpp(829): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\acer\desktop\lights\lights_windows_pp1\new folder\3lights_perfragment\3lights_perfragment\3lights_perfragment.cpp(830): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\acer\desktop\lights\lights_windows_pp1\new folder\3lights_perfragment\3lights_perfragment\3lights_perfragment.cpp(940): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\acer\desktop\lights\lights_windows_pp1\new folder\3lights_perfragment\3lights_perfragment\3lights_perfragment.cpp(944): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\acer\desktop\lights\lights_windows_pp1\new folder\3lights_perfragment\3lights_perfragment\3lights_perfragment.cpp(945): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+     1>c:\users\acer\desktop\lights\lights_windows_pp1\new folder\3lights_perfragment\3lights_perfragment\3lights_perfragment.cpp(946): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Acer\Desktop\LIGHTS\LIGHTS_WINDOWS_PP1\New folder\3Lights_PerFragment\3Lights_PerFragment\Debug\3Lights_PerFragment.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\glew-2.1.0\lib\Release\Win32" /LIBPATH:E:\RealTimeRendering\PROGRAMMABLE_PIPELINE\LIGHTS_WINDOWS_PP\3Lights_PerFragment\3Lights_PerFragment kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Acer\Desktop\LIGHTS\LIGHTS_WINDOWS_PP1\New folder\3Lights_PerFragment\3Lights_PerFragment\Debug\3Lights_PerFragment.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Acer\Desktop\LIGHTS\LIGHTS_WINDOWS_PP1\New folder\3Lights_PerFragment\3Lights_PerFragment\Debug\3Lights_PerFragment.lib" /MACHINE:X86 Debug\3Lights_PerFragment.obj
+         Sphere.lib
+         3Lights_PerFragment.vcxproj -> C:\Users\Acer\Desktop\LIGHTS\LIGHTS_WINDOWS_PP1\New folder\3Lights_PerFragment\3Lights_PerFragment\Debug\3Lights_PerFragment.exe
+     1>Done Building Project "C:\Users\Acer\Desktop\LIGHTS\LIGHTS_WINDOWS_PP1\New folder\3Lights_PerFragment\3Lights_PerFragment\3Lights_PerFragment.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.88

@@ -1,0 +1,19 @@
+﻿Build started 7/27/2018 3:39:59 PM.
+     1>Project "C:\Users\Acer\Desktop\TO_BE_SENT\RTR_PROGRAMMABLE_WINDOWS\04_SHADERS_COLOR_TRIANGLE\04_SHADERS_COLOR_TRIANGLE\04_SHADERS_COLOR_TRIANGLE.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"C:\glew-2.1.0\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Shaders_Color_Triangle.cpp
+         Shaders_Color_Triangle.cpp
+     1>c:\users\acer\desktop\to_be_sent\rtr_programmable_windows\04_shaders_color_triangle\04_shaders_color_triangle\vmath.h(996): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+     1>c:\users\acer\desktop\to_be_sent\rtr_programmable_windows\04_shaders_color_triangle\04_shaders_color_triangle\shaders_color_triangle.cpp(73): warning C4129: 'E': unrecognized character escape sequence
+     1>c:\users\acer\desktop\to_be_sent\rtr_programmable_windows\04_shaders_color_triangle\04_shaders_color_triangle\shaders_color_triangle.cpp(432): warning C4473: 'fprintf' : not enough arguments passed for format string
+         c:\users\acer\desktop\to_be_sent\rtr_programmable_windows\04_shaders_color_triangle\04_shaders_color_triangle\shaders_color_triangle.cpp(432): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+         c:\users\acer\desktop\to_be_sent\rtr_programmable_windows\04_shaders_color_triangle\04_shaders_color_triangle\shaders_color_triangle.cpp(432): note: the missing variadic argument 1 is required by format string '%s'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Acer\Desktop\TO_BE_SENT\RTR_PROGRAMMABLE_WINDOWS\04_SHADERS_COLOR_TRIANGLE\04_SHADERS_COLOR_TRIANGLE\Debug\04_SHADERS_COLOR_TRIANGLE.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\glew-2.1.0\lib\Release\Win32" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Acer\Desktop\TO_BE_SENT\RTR_PROGRAMMABLE_WINDOWS\04_SHADERS_COLOR_TRIANGLE\04_SHADERS_COLOR_TRIANGLE\Debug\04_SHADERS_COLOR_TRIANGLE.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Acer\Desktop\TO_BE_SENT\RTR_PROGRAMMABLE_WINDOWS\04_SHADERS_COLOR_TRIANGLE\04_SHADERS_COLOR_TRIANGLE\Debug\04_SHADERS_COLOR_TRIANGLE.lib" /MACHINE:X86 Debug\Shaders_Color_Triangle.obj
+         LINK : C:\Users\Acer\Desktop\TO_BE_SENT\RTR_PROGRAMMABLE_WINDOWS\04_SHADERS_COLOR_TRIANGLE\04_SHADERS_COLOR_TRIANGLE\Debug\04_SHADERS_COLOR_TRIANGLE.exe not found or not built by the last incremental link; performing full link
+         04_SHADERS_COLOR_TRIANGLE.vcxproj -> C:\Users\Acer\Desktop\TO_BE_SENT\RTR_PROGRAMMABLE_WINDOWS\04_SHADERS_COLOR_TRIANGLE\04_SHADERS_COLOR_TRIANGLE\Debug\04_SHADERS_COLOR_TRIANGLE.exe
+     1>Done Building Project "C:\Users\Acer\Desktop\TO_BE_SENT\RTR_PROGRAMMABLE_WINDOWS\04_SHADERS_COLOR_TRIANGLE\04_SHADERS_COLOR_TRIANGLE\04_SHADERS_COLOR_TRIANGLE.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.04
